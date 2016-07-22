@@ -20,7 +20,7 @@
   "devDependencies": {
     "should": "x",
     "mocha": "x",
-    "request": "x"
+    "request": "2.74.0"
   },
   "scripts": {
     "help": "actionhero help",
