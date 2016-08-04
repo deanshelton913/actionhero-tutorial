@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "should": "x",
-    "mocha": "x",
+    "mocha": "3.0.1",
     "request": "x"
   },
   "scripts": {
